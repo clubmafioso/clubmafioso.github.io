@@ -1,5 +1,5 @@
-# [mafiaclub.github.io](https://mafiaclub.github.io)
-This is the source code for the above website. It hosts role descriptions for the [Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game)) format played by Cornell Mafia Club.
+# [Club Mafioso](https://clubmafioso.github.io)
+This is a translation of mafiaclub/mafiaclub.github.io made as a prank. This is the source code for the above website. It hosts role descriptions for the [Mafia](https://en.wikipedia.org/wiki/Mafia_(party_game)) format played by Cornell Mafia Club.
 
 ## Architecture
 The website is a static site hosted on [github pages](https://pages.github.com/). The master branch is auto-deployed. The site uses [javascript](/index.js) to render json lists into the tabs viewed on the main page. There are two main manifest files and one important folder:
