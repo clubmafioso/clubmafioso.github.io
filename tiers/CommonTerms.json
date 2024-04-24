@@ -1,6 +1,6 @@
 {
-    "version": "TérminosComunes",
-    "name": "TérminosComunes",
+    "version": "CommonTerms",
+    "name": "Términos Comunes",
     "description": "Estos son algunos términos comunes que puedes escuchar mientras juegas a la mafia",
     "roles": [
         "Reclamo Masivo",
